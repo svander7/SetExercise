@@ -1,11 +1,15 @@
 package main;
 
+import java.util.HashSet;
+import java.util.Scanner;
 import java.util.Set;
 
 
 public class SetExerciseApplication {
 	
-	// instatiate new hashset
+	// instantiate new hashset
+	
+	Set<String> hands = new HashSet<>();
 
 	public static void main(String[] args) {
 		
